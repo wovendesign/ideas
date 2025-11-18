@@ -6,3 +6,4 @@ We might create prototypes or real versions of these ideas later. In the meantim
 
 - [ ] [Federated Music Streaming](federated-music-streaming.md)
 - [ ] [City Map](city-map.md)
+- [ ] [Interactive Activism](interactive-activism.md)
