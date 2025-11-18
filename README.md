@@ -4,5 +4,5 @@ We might create prototypes or real versions of these ideas later. In the meantim
 
 ## Concepts
 
-[Federated Music Streaming](federated-music-streaming.md)
-[City Map](city-map.md)
+- [ ] [Federated Music Streaming](federated-music-streaming.md)
+- [ ] [City Map](city-map.md)
