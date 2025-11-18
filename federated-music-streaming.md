@@ -1,6 +1,6 @@
 # Federated Music Streaming
 
-A fair music streaming offer. Artists and Labels can self-host and self-distribute their music. Those could bedistributed in a federated matter. 
+A fair music streaming offer. Artists and Labels can self-host and self-distribute their music. Those could be distributed in a federated matter. 
 
 There might be a need for a centralised user-facing service. This service could accept payments and distribute them to the contributing artists and labels. The artists and labels hosting music, could opt-in to be distributed by certain user-facing services.
 
