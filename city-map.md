@@ -1,4 +1,4 @@
-# City Map
+# City Map/UrbanMap
 
 A OSM client specialised on urban exploration and navigation.
 
