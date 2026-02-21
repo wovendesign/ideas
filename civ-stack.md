@@ -31,6 +31,7 @@ flowchart TB
 ```
 
 ## Possible Architecture
+```mermaid
 flowchart TB
 
     %% =========================
@@ -131,3 +132,4 @@ flowchart TB
     C6 --> A1
 
     CFG --> N1
+```
